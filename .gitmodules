@@ -4,3 +4,6 @@
 [submodule "builder-design-pattern"]
 	path = builder-design-pattern
 	url = https://github.com/skgandikota/Builder-Design-Pattern.git
+[submodule "prototype-design-pattern"]
+	path = prototype-design-pattern
+	url = https://github.com/skgandikota/Prototype-Pattern.git
