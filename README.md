@@ -2,7 +2,7 @@
 
 Creational design patterns provide solution to *`instantiate a object`* which increase flexibility and reuse of existing code.
 
-1 [Singleton Design Pattern ](/01-Creational-Design-Patterns/01-Singleton-Pattern/)
+1 [Singleton Design Pattern ]()
 
 2 [Factory Design Pattern / Factory Method Design Pattern ](/01-Creational-Design-Patterns/02-Factory-Pattern/)
 
