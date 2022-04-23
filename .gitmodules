@@ -1,3 +1,6 @@
 [submodule "abstract-factory-pattern"]
 	path = abstract-factory-pattern
 	url = https://github.com/skgandikota/Abstract-Factory-Pattern.git
+[submodule "builder-design-pattern"]
+	path = builder-design-pattern
+	url = https://github.com/skgandikota/Builder-Design-Pattern.git
