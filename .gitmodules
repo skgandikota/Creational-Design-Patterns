@@ -7,3 +7,6 @@
 [submodule "prototype-design-pattern"]
 	path = prototype-design-pattern
 	url = https://github.com/skgandikota/Prototype-Pattern.git
+[submodule "singleton-design-pattern"]
+	path = singleton-design-pattern
+	url = https://github.com/skgandikota/singleton-design-Pattern.git
